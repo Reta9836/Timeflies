@@ -1,0 +1,129 @@
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <link rel="icon" href="./favicon.ico">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#000000">
+  <meta name="description" content="Web site created using create-react-app">
+  <link rel="apple-touch-icon" href="./logo192.png">
+  <link rel="manifest" href="./manifest.json">
+  <title>Wisdom Tooth Mall</title>
+  <script defer="defer" src="./static/js/main.1c2f276e.js"></script>
+  <link href="./static/css/main.d8e134ec.css" rel="stylesheet">
+</head>
+<body>
+  <div id="root">
+    <div class="userArea">
+      <p class="h4">Membership Information:</p>
+      <div class="userPlist">
+        <p class="p4"><span class="bold">Membership number</span> : <span class="userValue">XB000301</span></p>
+        <p class="p4"><span class="bold">Membership level</span> : <span class="userValue org">Ordinary Member</span></p>
+        <p class="p4"><span class="bold">Member's birthday</span> : <span class="userValue">1993/05/02</span></p>
+        <p class="p4"><span class="bold">Registration time</span> : <span class="userValue">5 years</span></p>
+        <p class="p4"><span class="bold">Total spending</span> : <span class="userValue">1099 yuan</span></p>
+      </div>
+      <div class="userPlist userPlist2">
+        <p class="p4"><span class="bold">Card balance</span> : <span class="userValue">2300 yuan</span></p>
+        <p class="p4"><span class="bold">Card status</span> : <span class="userValue">Normal</span></p>
+        <p class="p4"><span class="bold">Membership Points</span> : <span class="userValue">34159.26</span></p>
+        <p class="p4"><span class="bold">Expiration time</span> : <span class="userValue">5 years</span></p>
+        <p class="p4"><span class="bold">Purchases</span> : <span class="userValue">32 times</span></p>
+        <p class="p4"><span class="more"><a href="https://www.taobao.com" target="_blank" rel="noreferrer">View more...</a></span></p>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="orderArea">
+      <p class="h4">Historical orders:</p>
+      <div class="order_wide">
+        <div class="card_ele">
+          <a target="_blank" rel="noreferrer" class="card_elea">
+            <p class="card_title"><span class="orderkey">Order number:</span><span class="ordernum">BZ1993050216362</span></p>
+            <p class="card_title mb5"><span class="orderkey">Sony IMX890 Flagship Main Camera 100W Super... and 2 other items</span></p>
+          </a>
+          <div class="area">
+            <img src="https://img3.sobot.com/chatres/b77e9e46bdc34890b91dab906f7114e2/msg/20230810/fc57ac9b20d4df35a77e0d6aa160efcc/2d4e66981589426480d2df2a6f9a7e75.jpg" class="card_picture" alt="">
+            <div class="desc_area">
+              <p><span class="orderkey">2 items, total:</span><span class="orderstatus">3432.50 yuan</span></p>
+              <p><span class="orderkey">Order status:</span><span class="orderstatus">To be paid</span></p>
+              <p><span class="orderkey">Order time:</span><span class="ordertime">2023-08-09 14:40:06</span></p>
+            </div>
+          </div>
+        </div>
+        <span class="send">Create ticket</span><span class="send">Send</span>
+      </div>
+      <div class="order_wide">
+        <div class="card_ele">
+          <a target="_blank" rel="noreferrer" class="card_elea">
+            <p class="card_title"><span class="orderkey">Order number:</span><span class="ordernum">HX198909389201</span></p>
+            <p class="card_title mb5"><span class="orderkey">OnePlus Ace 2, Sony IMX890 Flagship Same Model Main Camera 100W Super Flash Charge 5000mAh Battery, 3 other items</span></p>
+          </a>
+          <div class="area">
+            <img src="https://img3.sobot.com/chatres/b77e9e46bdc34890b91dab906f7114e2/msg/20230810/fc57ac9b20d4df35a77e0d6aa160efcc/11c316b8dd70484ab77d4b7ae968bf75.jpg" class="card_picture" alt="">
+            <div class="desc_area">
+              <p><span class="orderkey">3 items, total:</span><span class="orderstatus">2332.50 yuan</span></p>
+              <p><span class="orderkey">Order status:</span><span class="orderstatus">Received</span></p>
+              <p><span class="orderkey">Order time:</span><span class="ordertime">2023-04-09 12:20:43</span></p>
+            </div>
+          </div>
+        </div>
+        <span class="send">Create ticket</span><span class="send">Send</span>
+      </div>
+      <p><span class="moreorder"><a href="https://www.taobao.com" target="_blank" rel="noreferrer">More historical orders...</a></span></p>
+    </div>
+    <div>
+      <p class="h4">Recommended products:</p>
+      <div class="card_wide">
+        <div class="card_ele">
+          <a href="https://www.taobao.com/" target="_blank" rel="noreferrer" class="card_elea">
+            <p class="card_title">OPPO Find N2 5g Folding Screen Flagship Smartphone Digital Phone Official Flagship Store Genuine Large Screen Smart oppofindn Folding Screen Phone</p>
+          </a>
+          <div class="area">
+            <img src="https://img3.sobot.com/chatres/b77e9e46bdc34890b91dab906f7114e2/msg/20230810/fc57ac9b20d4df35a77e0d6aa160efcc/11c316b8dd70484ab77d4b7ae968bf75.jpg" class="card_picture" alt="">
+            <div class="desc_area">
+              <p class="card_desc">Folding screen flagship smartphone digital phone official flagship store genuine large screen smart oppofindn folding screen phone</p>
+              <p class="card_note">6999 yuan</p>
+              <span class="send">Send</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card_wide">
+        <div class="card_ele">
+          <a href="https://www.taobao.com/" target="_blank" rel="noreferrer" class="card_elea">
+            <p class="card_title">[New Product Launch] OPPO K11 Sony IMX890 Flagship Same Model Main Camera 100W Super Flash Charge 5000mAh Big Battery Big Memory 5G Smartphone</p>
+          </a>
+          <div class="area">
+            <img src="https://img3.sobot.com/chatres/b77e9e46bdc34890b91dab906f7114e2/msg/20230810/fc57ac9b20d4df35a77e0d6aa160efcc/2d4e66981589426480d2df2a6f9a7e75.jpg" class="card_picture" alt="">
+            <div class="desc_area">
+              <p class="card_desc">Sony IMX890 flagship same model main camera 100W super flash charge 5000mAh big battery big memory 5G smartphone</p>
+              <p class="card_note">7999 yuan</p>
+              <span class="send">Send</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card_wide">
+        <div class="card_ele">
+          <a href="https://www.taobao.com/" target="_blank" rel="noreferrer" class="card_elea">
+            <p class="card_title">[Enjoy 6 periods of interest-free] OnePlus Ace 2 OnePlus Rabbit's new game flagship smart 5G phone full blood version Snapdragon 8+ processor enjoys OPPO official after-sales</p>
+          </a>
+          <div class="area">
+            <img src="https://img3.sobot.com/chatres/b77e9e46bdc34890b91dab906f7114e2/msg/20230810/fc57ac9b20d4df35a77e0d6aa160efcc/72f227cdecd1448fa9ddc0455f4af7e6.jpg" class="card_picture" alt="">
+            <div class="desc_area">
+              <p class="card_desc">OnePlus Rabbit's new game flagship smart 5G phone full blood version Snapdragon 8+ processor enjoys OPPO official after-sales</p>
+              <p class="card_note">1999 yuan</p>
+              <span class="send">Send</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <p><span class="moreorder"><a href="https://www.taobao.com" target="_blank" rel="noreferrer">More recommended products...</a></span></p>
+    </div>
+    <div class="customCard">
+      <p class="h4">Custom Cards:</p>
+      <p class="h5">Can combine with actual business to achieve rich customized card functions such as distributing coupons, querying logistics information, order confirmation, etc.</p>
+      <span class="send">Click to send</span>
+    </div>
+  </div>
+</body>
+</html>
